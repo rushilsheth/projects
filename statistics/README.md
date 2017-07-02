@@ -2,7 +2,7 @@
 
 ## Overview
 
-This folder contains various statistics project I have perfomed on my own or while on very exciting teams. These projects encompass both in and out of classroom reports.
+This folder contains various statistics project I have perfomed on my own or with very exciting teams. These projects encompass both in and out of classroom reports.
 
 ### Berkeley Crime
 

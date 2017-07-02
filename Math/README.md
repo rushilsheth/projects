@@ -6,4 +6,4 @@ There are various projects, which range from Mathematical Biology to Mathematica
 
 ### Mathbio
 
-Contains two projects written during Math 127(Spring 2016): at UC - Berkeley
+Contains two projects written during Math 127: Mathematical and Computational Methods in Molecular Biology(Spring 2016): at UC - Berkeley
